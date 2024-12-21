@@ -1,0 +1,4 @@
+map_name: aggression_1914
+games:
+- {game_name: Aggression 1914, file_name: aggression_1914.xml}
+version: 0
